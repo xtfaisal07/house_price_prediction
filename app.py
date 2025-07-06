@@ -19,4 +19,4 @@ ave_occup = st.number_input("Average Occupancy", min_value=1.0, max_value=10.0, 
 if st.button("Predict"):
     input_data = np.array([[med_inc, house_age, ave_rooms, ave_occup]])
     prediction = model.predict(input_data)
-    st.success(f"Estimated House Price: ₹{prediction[0]*100000:,.2f}")
+    st.success(f"Estimated House Price: ₹{prediction[0]*1000000:,.2f}")
