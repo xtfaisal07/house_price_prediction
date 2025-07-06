@@ -3,6 +3,14 @@
 
 This is a simple Machine Learning web application built with **Streamlit** that predicts house prices based on user input features. It uses the **California Housing Dataset** and a trained **Linear Regression** model.
 
+
+## 🌐 Live Demo
+
+> 🔗 https://housepricepredictx.streamlit.app/
+
+> 🔗 You can deploy this app for free using [Streamlit Cloud](https://streamlit.io/cloud)
+
+
 ## 🚀 Features
 
 - 📈 Predict house prices using trained ML model
@@ -61,12 +69,6 @@ python train_model.py
 ```bash
 streamlit run app.py
 ```
-
-## 🌐 Live Demo
-
-> 🔗 https://housepricepredictx.streamlit.app/
-
-> 🔗 You can deploy this app for free using [Streamlit Cloud](https://streamlit.io/cloud)
 
 ## 📦 Requirements
 
