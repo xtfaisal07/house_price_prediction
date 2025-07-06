@@ -65,6 +65,7 @@ streamlit run app.py
 ## 🌐 Live Demo
 
 > 🔗 https://housepricepredictx.streamlit.app/
+
 > 🔗 You can deploy this app for free using [Streamlit Cloud](https://streamlit.io/cloud)
 
 ## 📦 Requirements
